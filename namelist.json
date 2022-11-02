@@ -1,0 +1,23 @@
+[
+  {
+    "primary": {
+      "nameInput": "陈xx",
+      "relationship": "",
+      "cardInput": "xxx"
+    },
+    "secondary": [
+      {
+        "nameInput": "陈xx",
+        "relationship": "陈xx爸爸",
+        "cardInput": "xx"
+      },
+      {
+        "nameInput": "邓xx",
+        "relationship": "陈xx妈妈",
+        "cardInput": "xxxx"
+      }
+    ]
+  }
+]
+
+
